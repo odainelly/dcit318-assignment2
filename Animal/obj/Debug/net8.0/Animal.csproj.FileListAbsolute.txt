@@ -1,0 +1,15 @@
+/home/draco/Desktop/dcit318-assignment2/Animal/bin/Debug/net8.0/Animal
+/home/draco/Desktop/dcit318-assignment2/Animal/bin/Debug/net8.0/Animal.deps.json
+/home/draco/Desktop/dcit318-assignment2/Animal/bin/Debug/net8.0/Animal.runtimeconfig.json
+/home/draco/Desktop/dcit318-assignment2/Animal/bin/Debug/net8.0/Animal.dll
+/home/draco/Desktop/dcit318-assignment2/Animal/bin/Debug/net8.0/Animal.pdb
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.GeneratedMSBuildEditorConfig.editorconfig
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.AssemblyInfoInputs.cache
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.AssemblyInfo.cs
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.csproj.CoreCompileInputs.cache
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.sourcelink.json
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.dll
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/refint/Animal.dll
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.pdb
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/Animal.genruntimeconfig.cache
+/home/draco/Desktop/dcit318-assignment2/Animal/obj/Debug/net8.0/ref/Animal.dll
