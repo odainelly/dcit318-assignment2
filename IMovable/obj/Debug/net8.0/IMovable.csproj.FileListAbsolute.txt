@@ -1,0 +1,15 @@
+/home/draco/Desktop/dcit318-assignment2/IMovable/bin/Debug/net8.0/IMovable
+/home/draco/Desktop/dcit318-assignment2/IMovable/bin/Debug/net8.0/IMovable.deps.json
+/home/draco/Desktop/dcit318-assignment2/IMovable/bin/Debug/net8.0/IMovable.runtimeconfig.json
+/home/draco/Desktop/dcit318-assignment2/IMovable/bin/Debug/net8.0/IMovable.dll
+/home/draco/Desktop/dcit318-assignment2/IMovable/bin/Debug/net8.0/IMovable.pdb
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.GeneratedMSBuildEditorConfig.editorconfig
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.AssemblyInfoInputs.cache
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.AssemblyInfo.cs
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.csproj.CoreCompileInputs.cache
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.sourcelink.json
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.dll
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/refint/IMovable.dll
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.pdb
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/IMovable.genruntimeconfig.cache
+/home/draco/Desktop/dcit318-assignment2/IMovable/obj/Debug/net8.0/ref/IMovable.dll
