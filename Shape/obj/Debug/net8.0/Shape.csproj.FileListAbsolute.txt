@@ -1,0 +1,15 @@
+/home/draco/Desktop/dcit318-assignment2/Shape/bin/Debug/net8.0/Shape
+/home/draco/Desktop/dcit318-assignment2/Shape/bin/Debug/net8.0/Shape.deps.json
+/home/draco/Desktop/dcit318-assignment2/Shape/bin/Debug/net8.0/Shape.runtimeconfig.json
+/home/draco/Desktop/dcit318-assignment2/Shape/bin/Debug/net8.0/Shape.dll
+/home/draco/Desktop/dcit318-assignment2/Shape/bin/Debug/net8.0/Shape.pdb
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.GeneratedMSBuildEditorConfig.editorconfig
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.AssemblyInfoInputs.cache
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.AssemblyInfo.cs
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.csproj.CoreCompileInputs.cache
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.sourcelink.json
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.dll
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/refint/Shape.dll
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.pdb
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/Shape.genruntimeconfig.cache
+/home/draco/Desktop/dcit318-assignment2/Shape/obj/Debug/net8.0/ref/Shape.dll

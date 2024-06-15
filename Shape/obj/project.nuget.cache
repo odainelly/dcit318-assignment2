@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U+nUBBhYQGewdn/PbPYsD37nqhrRJpmNqtLzZYFrr0XBmjbaNR34cMLPyEGJ394IaRCBiCglLzVl5cLejpLrkg==",
+  "success": true,
+  "projectFilePath": "/home/draco/Desktop/dcit318-assignment2/Shape/Shape.csproj",
+  "expectedPackageFiles": [
+    "/home/draco/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
